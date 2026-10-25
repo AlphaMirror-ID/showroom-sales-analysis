@@ -60,11 +60,27 @@ It documents the analysis and findings from the project.
 
 ## Key Findings
 
-_Add verified findings here, such as total sales, top-performing branches, popular car models, or sales trends. Avoid publishing figures until they have been checked against the analysis output._
+- **Total sales:** Rp3,092,685,000,000 across **10,000 transactions** and **10,433 units**.
+- **Completion rate:** 89.7%, representing **8,966 completed transactions**.
+- **Top vehicle category:** SUVs generated Rp1,680,293,000,000, contributing **54.3%** of total sales. MPVs ranked second with Rp997,200,000,000.
+- **Branch performance:** Malang recorded the highest total sales at **Rp324,667,000,000**. Karawang recorded the lowest at **Rp295,398,000,000**.
+- **Top product:** Honda CR-V 1.5 Turbo RS ranked first by total sales.
+- **Monthly trend:** August recorded the highest sales, while June recorded the lowest.
+- **Transaction status:** 542 transactions were cancelled and 492 were refunded, totaling **1,034 transactions (10.3%)** that were not completed.
+- **Payment method:** Credit was the most frequently used payment method.
+- **Trade-in:** 3,523 transactions (35.2%) were marked as trade-in.
+
+*Figures above are taken from the project's showroom analysis report. Sales value is not the same as profit or margin; profitability data would be needed to assess profit performance.*
 
 ## Business Recommendations
 
-_Add recommendations based on the verified findings in the report. For example, recommendations may address branch performance, inventory planning, or sales strategy when supported by the data._
+1. **Prioritize SUV demand planning.** SUVs account for 54.3% of total sales, so monitor SUV demand, stock availability, and sales performance regularly. Keep MPVs under close review as the second-largest category.
+2. **Use Malang as a comparison point, not an automatic template.** Review Malang's sales approach and compare its category mix, transaction volume, and completion rate with other branches before applying practices elsewhere.
+3. **Investigate cancelled and refunded transactions.** Track the 542 cancelled and 492 refunded orders by branch, product, month, and payment method to identify where further investigation is most useful. The current aggregate figures do not establish the causes.
+4. **Review the monthly sales pattern.** Compare August's high sales with June's low sales and check whether the difference relates to vehicle category, branch performance, promotions, or transaction volume before planning future campaigns.
+5. **Monitor transaction completion alongside sales.** Report completed, cancelled, and refunded transactions together with total sales so that the team can distinguish gross sales activity from completed orders.
+6. **Review the credit payment journey.** Since credit is the most frequently used payment method, monitor its completion and cancellation rates to identify potential process improvements. The data alone does not prove that credit causes cancellations or refunds.
+7. **Track trade-in activity.** Trade-in accounts for 35.2% of transactions. Compare its sales and completion metrics with non-trade-in transactions to evaluate its role in the sales process.
 
 ## Author
 
