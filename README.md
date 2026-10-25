@@ -68,4 +68,6 @@ _Add recommendations based on the verified findings in the report. For example, 
 
 ## Author
 
-Data Analyst Portfolio Project
+**Aziyusman Maulana**
+
+Data Analytics Portfolio Project
